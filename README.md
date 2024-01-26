@@ -5,7 +5,6 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ## Table of Contents
 
 - [About Me](#about-me)
-- [Projects](#projects)
 - [Skills](#skills)
 - [Contact](#contact)
 
